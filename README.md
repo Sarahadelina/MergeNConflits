@@ -1,2 +1,2 @@
 # MergeNConflits
-Quête n°5 de Git/GitHub
+Voici la quête n°5 de Git/GitHub
